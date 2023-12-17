@@ -8,7 +8,7 @@ const Navbar = () => {
        <li><a>Item 3</a></li>
     </>
     return (
-        <div className='bg-[#FD6E0A33]'>
+        <div className='bg-[#FFF8F3]'>
            <div className="navbar  max-w-7xl mx-auto border-black border-b-2">
   <div className="">
     <div className="dropdown">
